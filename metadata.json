@@ -1,0 +1,7 @@
+{
+  "name": "Elevate - Career Companion",
+  "description": "A comprehensive support platform for job seekers providing AI-powered career coaching, mock interviews, resume optimization, and mental wellness resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
